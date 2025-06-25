@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Diabeto AI</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🩺 Diabeto AI – Daily Diabetes Log</h1>
+
+    <form id="logForm">
+      <label>Date: <input type="date" id="date" required /></label><br />
+
+      <label>Blood Sugar (mg/dL): <input type="number" id="sugar" required /></label><br />
+
+      <label>Meal (What you ate): <input type="text" id="meal" required /></label><br />
+
+      <label>Insulin Taken: 
+        <select id="insulin">
+          <option value="None">None</option>
+          <option value="Morning">Morning</option>
+          <option value="Evening">Evening</option>
+        </select>
+      </label><br />
+
+      <label>Weight (kg): <input type="number" id="weight" step="0.1" required /></label><br />
+
+      <button type="submit">💾 Save Log</button>
+    </form>
+
+    <button id="analyzeBtn">🤖 Analyze with AI</button>
+
+    <div id="aiResponse"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

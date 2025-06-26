@@ -1,0 +1,86 @@
+📘 Diabetic Health & Nutrition Knowledge Base
+1. Diabetic-Friendly Foods
+1.1 Foods to Eat (General)
+
+- Whole grains: Brown rice, oats, quinoa, whole wheat roti
+- Non-starchy vegetables: Spinach, broccoli, carrots, beans
+- Lean proteins: Eggs, paneer, tofu, chicken (grilled), dals
+- Healthy fats: Nuts, seeds, avocado, olive oil, ghee (limited)
+- Fruits with low glycemic index: Apples, guava, berries, pears
+- Legumes: Chickpeas, kidney beans, moong, chana
+- Dairy (in moderation): Low-fat milk, Greek yogurt
+
+1.2 Foods to Avoid
+
+- Refined carbs: White bread, maida, bakery items
+- Sugary drinks: Soft drinks, fruit juices, energy drinks
+- Deep-fried snacks: Samosa, kachori, chips
+- High-GI fruits: Mango, banana, watermelon (limit or eat with protein)
+- Processed foods: Biscuits, chips, noodles
+- Alcohol (limit or avoid if uncontrolled sugar)
+
+2. Types of Insulin & Their Uses
+
+🔹 Rapid-acting insulin:
+- Examples: Lispro (Humalog), Aspart (Novolog), Glulisine
+- Action: Starts in 10–30 minutes, peaks in 1–3 hours, lasts 3–5 hours
+- Use: Taken before meals
+
+🔹 Short-acting insulin (Regular insulin):
+- Examples: Humulin R, Novolin R
+- Action: Starts in 30–60 mins, peaks in 2–5 hours, lasts 5–8 hours
+- Use: Taken 30–45 minutes before meals
+
+🔹 Intermediate-acting insulin:
+- Examples: NPH (Humulin N, Novolin N)
+- Action: Starts in 1–2 hours, peaks in 4–12 hours, lasts up to 18 hours
+- Use: Usually taken twice daily
+
+🔹 Long-acting insulin:
+- Examples: Glargine (Lantus), Detemir (Levemir), Degludec (Tresiba)
+- Action: Starts in 1–2 hours, no peak, lasts up to 24–42 hours
+- Use: Provides baseline control, usually once or twice a day
+
+🔹 Mixed insulin (Premixed):
+- Examples: Ryzodeg, Novomix 30, Humalog Mix 75/25
+- Use: Combines both rapid & intermediate action; taken before meals
+
+3. Diabetic Nutrition for Weight Management
+3.1 For Weight Gain
+
+- Eat 5–6 small meals/day with high protein: eggs, paneer, dals, tofu
+- Add healthy fats: peanut butter, almonds, walnuts, ghee (1 tsp/day)
+- Use diabetic-friendly shakes (with oats, whey, nuts)
+- Include complex carbs: sweet potatoes, multigrain roti, brown rice
+- Eat bedtime snacks to avoid night-time hypoglycemia
+
+3.2 For Weight Loss
+
+- Reduce portion size, increase fiber (salads, whole grains)
+- Cut refined carbs and sugars completely
+- Add 30–45 minutes daily walking/cardio
+- Prefer protein in every meal: boiled egg, sprouts, Greek yogurt
+- Avoid late-night snacking
+
+3.3 To Stay Fit & Balanced
+
+- Maintain a balanced plate: 50% veggies, 25% carbs, 25% protein
+- Drink 2–3L water daily
+- Exercise 4–5 times a week (mix cardio + strength)
+- Monitor sugar before and after workouts
+- Sleep 7–8 hours daily to maintain insulin sensitivity
+
+4. Ideal Weight for Diabetics
+
+Use BMI (Body Mass Index) to determine ideal weight:
+
+BMI = weight (kg) / height (m)^2
+
+Ideal BMI range for diabetics: 18.5 – 24.9
+
+Example:
+- Height: 5'7" (1.70 m) → Ideal weight = 53 – 72 kg
+- Height: 5'4" (1.62 m) → Ideal weight = 49 – 65 kg
+
+Note: Muscle gain is preferred over fat gain for diabetics.
+
